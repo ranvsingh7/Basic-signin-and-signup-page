@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38a43a15.css",
+    "main.js": "/static/js/main.c6a543f2.js",
+    "static/media/depositphotos_6859250-stock-photo-laboratory 1.png": "/static/media/depositphotos_6859250-stock-photo-laboratory 1.510a4bc661ae0a455fda.png",
+    "index.html": "/index.html",
+    "main.38a43a15.css.map": "/static/css/main.38a43a15.css.map",
+    "main.c6a543f2.js.map": "/static/js/main.c6a543f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a43a15.css",
+    "static/js/main.c6a543f2.js"
+  ]
+}

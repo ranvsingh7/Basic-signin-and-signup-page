@@ -1,0 +1,2 @@
+*{font-family:Manrope,sans-serif}.header--center{grid-column-gap:.6rem;align-items:center;display:grid;grid-template-columns:1fr -webkit-max-content 1fr;grid-template-columns:1fr max-content 1fr}.header--center:after,.header--center:before{background-color:#ebeaed;content:"";display:block;height:1px}.support-text,a:hover{color:#29b475}.terms-text{color:#84818a}button{background-color:#29b475!important}i{cursor:pointer;margin-left:-30px;width:5px}
+/*# sourceMappingURL=main.38a43a15.css.map*/
